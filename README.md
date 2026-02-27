@@ -4,6 +4,8 @@
 
 Software developer based in **Buenos Aires, Argentina** 🇦🇷
 
+But I was born in the north of the south - 🇻🇪  Más Venezolano que la Arepa.
+
 I love building software products, solving problems, and optimizing systems. Always exploring new languages and technologies to expand my toolkit.
 
 When I'm not coding, you'll find me watching football ⚽
